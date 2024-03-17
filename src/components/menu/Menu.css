@@ -1,0 +1,40 @@
+.menu-content{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.show-content-media{
+    margin-left: 60px;
+    padding: 25px;
+    background-color: transparent;
+}
+
+
+nav{
+    background-color: rgb(28, 37, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 1072px;
+}
+
+div button {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(35, 46, 70);
+    text-decoration: none;
+    border-radius: 20px;
+    border: 1px white solid;
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+div button:hover{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}

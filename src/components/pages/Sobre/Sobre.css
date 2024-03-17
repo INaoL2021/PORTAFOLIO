@@ -1,0 +1,14 @@
+.title-sobre{
+    color: rgb(75, 75, 255);
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.text-sobre{
+    color: white;
+    width: 1000px;
+}
+
+.text-sobre b{
+    color: rgb(75, 75, 255);
+}

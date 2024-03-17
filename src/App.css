@@ -1,0 +1,6 @@
+.app{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(13, 17, 27);
+}
